@@ -137,6 +137,6 @@ The project is deployed on Vercel.
 
 Live URL:
 
-https://study-sprint-tracker-eta.vercel.app/
+https://study-sprint-tracker-55u5.vercel.app/
 
 ---
